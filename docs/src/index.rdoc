@@ -1,10 +1,9 @@
 [vision ]
 - COMMERCE AI  being built for actual customers rather than as a demo project, the repository should be structured like a company product from day one.
-[ref](https://chatgpt.com/s/t_6a1c078f99248191be777706ef29436)
+[ref] https://chatgpt.com/s/t_6a1c078f99248191be777706ef29436
 - COMMERCE AI — Production Repository Architecture
-- 
-[commerce-ai]
 
+[commerce-ai]
 ├── apps/
 │   ├── web/
 │   ├── admin/
