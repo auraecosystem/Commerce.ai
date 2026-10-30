@@ -1,5 +1,6 @@
 [COMMERCE AI] v1.0 Monorepo Specification
 
+
 - commerce-ai/
 
 ├── apps/
